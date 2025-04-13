@@ -1,2 +1,3 @@
 Hello i am going to github. 
-add another content
+add another content.
+i am the main content.
